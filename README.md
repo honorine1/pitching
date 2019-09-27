@@ -19,7 +19,7 @@
 
 ## Technologies Used
   * Python 3.6
-  * HTML and Bootstrap
+  * HTML and Bootstrap for styling
   * Flask Framework
   * Postgressql
   
