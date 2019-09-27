@@ -22,7 +22,7 @@
   * HTML and Bootstrap
   * Flask Framework
   * Postgressql
-  * Heroku
+  
 
 
 #### Contact information
