@@ -1,6 +1,6 @@
 # Pitching Project
 
-### AUthor's information
+### Author's information
    
 
   **[Uwurukundo Honorine](https://github.com/honorine1)**
