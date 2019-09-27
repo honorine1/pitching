@@ -6,9 +6,6 @@
   **[Uwurukundo Honorine](https://github.com/honorine1)**
 
 
-## Link  Site 
-https://honopitching.herokuapp.com/
-
 
 
 ## Project Description
@@ -21,7 +18,7 @@ https://honopitching.herokuapp.com/
   * A user can view and submit pitches by category.
 
 ## Technologies Used
-  * Python 3.6.5
+  * Python 3.6
   * HTML and Bootstrap
   * Flask Framework
   * Postgressql
