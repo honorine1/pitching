@@ -9,7 +9,7 @@
 
 
 ## Project Description
-  This application allows users to post a pitch according to the category it belongs to,and others can comment and vote for the written pitch.
+  This application allows users to post a pitch according to the category it belongs to,and others can comment and vote for the written pitch
 
 ## User Stories
   * A user can see the pitches posted by other people
