@@ -1,4 +1,4 @@
-# Pitching Project
+## Pitching Project
 
 ### Author's information
    
