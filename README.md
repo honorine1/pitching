@@ -22,7 +22,7 @@
   * HTML and Bootstrap for styling
   * Flask Framework
   * Postgressql
-  And many more others
+  * And many more others
   
 
 
